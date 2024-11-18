@@ -12,5 +12,11 @@
 
 完整报告请参考 Enhancements in Neural Networks for Fine-grained Classification PDF 文件。
 
+# 许可证说明
+
+本项目基于课程助教提供的原有代码进行修改新增，原有许可证声明为 MIT LICENSE。
+
+本项目许可证声明为 Apache LICENSE 2.0，您可以修改分发闭源原有代码，但需要在修改中注明，同时需要在更改的代码中包含本许可证。
+
 
 
