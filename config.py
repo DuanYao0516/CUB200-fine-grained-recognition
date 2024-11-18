@@ -1,3 +1,20 @@
+'''
+Copyright (c) [2024] [Duan Yao in SYSU]
+
+This file is part of the CUB200-fine-grained-recognition project.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+    http://www.apache.org/licenses/LICENSE-2.0
+You must give appropriate credit, provide a link to the license, 
+and indicate if changes were made. For any part of your project 
+derived from this code, you must explicitly indicate the source.
+
+'''
+
+
+
 from utils import get_weight_path,get_weight_list
 
 __all__ = ["resnet18", "resnet34", "resnet50", "resnet101", "resnet152","resnext50_32x4d","resnext101_32x8d","resnext101_64x4d","wide_resnet50_2","wide_resnet101_2",
